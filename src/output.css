@@ -618,12 +618,12 @@ video {
   gap: 1rem;
 }
 
-.bg-\[url\(\'\.\.\/img\/Imagebg\.png\'\)\] {
-  background-image: url('../img/Imagebg.png');
-}
-
 .bg-\[url\(\'\/img\/Imagebg\.png\'\)\] {
   background-image: url('/img/Imagebg.png');
+}
+
+.bg-\[url\(\'\.\.\/img\/Imagebg\.png\'\)\] {
+  background-image: url('../img/Imagebg.png');
 }
 
 .bg-\[url\(\'\.\/img\/Imagebg\.png\'\)\] {
@@ -632,6 +632,10 @@ video {
 
 .bg-\[url\(\'img\/Imagebg\.png\'\)\] {
   background-image: url('img/Imagebg.png');
+}
+
+.bg-\[url\(\'\/img\/image\.png\'\)\] {
+  background-image: url('/img/image.png');
 }
 
 .bg-cover {
