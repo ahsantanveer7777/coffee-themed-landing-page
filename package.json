@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "backend.js",
+  "homepage": "https://ahsantanveer7777.github.io/coffee-themed-landing-page/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
