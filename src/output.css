@@ -582,6 +582,10 @@ video {
   height: 100%;
 }
 
+.h-5\/6 {
+  height: 83.333333%;
+}
+
 .h-screen {
   height: 100vh;
 }
@@ -632,6 +636,10 @@ video {
 
 .bg-\[url\(\'\/img\/LandingPage\.jpg\'\)\] {
   background-image: url('/img/LandingPage.jpg');
+}
+
+.bg-\[url\(\'\/img\/imagebg\.png\'\)\] {
+  background-image: url('/img/imagebg.png');
 }
 
 .bg-cover {
