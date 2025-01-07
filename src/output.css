@@ -582,10 +582,6 @@ video {
   height: 100%;
 }
 
-.h-screen {
-  height: 100vh;
-}
-
 .w-1\/3 {
   width: 33.333333%;
 }
@@ -620,26 +616,6 @@ video {
 
 .bg-\[url\(\'\/img\/Imagebg\.png\'\)\] {
   background-image: url('/img/Imagebg.png');
-}
-
-.bg-\[url\(\'\.\.\/img\/Imagebg\.png\'\)\] {
-  background-image: url('../img/Imagebg.png');
-}
-
-.bg-\[url\(\'\.\/img\/Imagebg\.png\'\)\] {
-  background-image: url('./img/Imagebg.png');
-}
-
-.bg-\[url\(\'img\/Imagebg\.png\'\)\] {
-  background-image: url('img/Imagebg.png');
-}
-
-.bg-\[url\(\'\/img\/image\.png\'\)\] {
-  background-image: url('/img/image.png');
-}
-
-.bg-\[url\(\'\.\.\/public\/img\/Imagebg\.png\'\)\] {
-  background-image: url('../public/img/Imagebg.png');
 }
 
 .bg-cover {
