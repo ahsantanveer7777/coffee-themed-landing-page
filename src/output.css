@@ -654,6 +654,10 @@ video {
   background-image: url('./image/imagebg.png');
 }
 
+.bg-\[url\(\'\/coffee-themed-landing-page\/image\/imagebg\.png\'\)\] {
+  background-image: url('/coffee-themed-landing-page/image/imagebg.png');
+}
+
 .bg-cover {
   background-size: cover;
 }
